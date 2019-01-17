@@ -1,0 +1,17 @@
+//request
+{
+    "username":"ufotw3@akpewe.com",
+    "password":"ikupajoy"
+}
+
+
+//response
+{
+    "user_id":28,
+    "username":"ufotw3@akpewe.com",
+    "token":"9876363hdihgd9j2jshsjsh7262",
+    "first_name":"ikupa",
+    "last_name":"harrison",
+    "email":"ufotw3@akpewe.com",
+    "gender":"male"
+}

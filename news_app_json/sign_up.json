@@ -1,0 +1,20 @@
+//request
+{
+    "username":"ufotw3@akpewe.com",
+    "first_name":"ikupa",
+    "last_name":"harrison",
+    "email":"ufotw3@akpewe.com",
+    "gender":"male"
+}
+
+//response
+{
+    "message":"success",
+    "data":{
+        "username":"ufotw3@akpewe.com",
+    "first_name":"ikupa",
+    "last_name":"harrison",
+    "email":"ufotw3@akpewe.com",
+    "gender":"male"
+    }
+}//tell user to confirm email by clicking the link sent to mail
